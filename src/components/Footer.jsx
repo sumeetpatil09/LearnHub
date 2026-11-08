@@ -37,7 +37,7 @@ export const Footer = ({ onScrollToTop, onScrollToSubjects, onScrollToAbout }) =
                 title="Eagle Logo Placeholder"
               >
                 {/* Stylized Majestic Eagle SVG Icon */}
-                <img src="/ACELogo.png" alt="Eagle Logo" className="w-20 h-20 object-contain" />
+                <img src="/LearnHub/ACELogo.png" alt="Eagle Logo" />
                   <path
                     d="M32 4L37 16L48 10L42 22L56 22L44 32L54 44L40 40L38 58L32 46L26 58L24 40L10 44L20 32L8 22L22 22L16 10L27 16L32 4Z"
                     fill="currentColor"

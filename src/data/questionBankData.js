@@ -11,7 +11,7 @@ export const SUBJECTS_DATA = [
           id: '25mats301-qb',
           title: 'Maths Question Bank',
           fileName: 'Question Bank.pdf',
-          filePath: '/pdfs/ma302/Question Bank.pdf',
+          filePath: '/LearnHub/pdfs/ma302/Question Bank.pdf',
           fileSize: '4.1 MB'
         }
       ],
@@ -20,7 +20,7 @@ export const SUBJECTS_DATA = [
           id: '25mats301-ci-1',
           title: 'IA 1 Question Paper',
           fileName: 'IA 1 Question Paper.pdf',
-          filePath: '/pdfs/ma302/CI 1 Question Paper.pdf',
+          filePath: '/LearnHub/pdfs/ma302/IA 1 Question Paper.pdf',
           fileSize: '1.3 MB'
         },
       ],
@@ -29,14 +29,14 @@ export const SUBJECTS_DATA = [
           id: '25mats301-asg-1',
           title: 'Assignment 1',
           fileName: 'Assignment 1.pdf',
-          filePath: '/pdfs/ma302/Assignment 1.pdf',
+          filePath: '/LearnHub/pdfs/ma302/Assignment 1.pdf',
           fileSize: '820 KB'
         },
         {
           id: '25mats301-asg-2',
           title: 'Assignment 2',
           fileName: 'Assignment 2.pdf',
-          filePath: '/pdfs/ma302/Assignment 2.pdf',
+          filePath: '/LearnHub/pdfs/ma302/Assignment 2.pdf',
           fileSize: '760 KB'
         }
       ]
@@ -54,7 +54,7 @@ export const SUBJECTS_DATA = [
           id: '25cs302-qb-1',
           title: 'Digital Logic Master Question Bank',
           fileName: 'Question Bank.pdf',
-          filePath: '/pdfs/ec303/Question Bank.pdf',
+          filePath: '/LearnHub/pdfs/ec303/Question Bank.pdf',
           fileSize: '3.8 MB'
         }
       ],
