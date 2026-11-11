@@ -3,7 +3,7 @@ export const SUBJECTS_DATA = [
     id: '25mats301',
     code: '25MATS301',
     name: 'Fuzzy Set, Graph Theory & Complex',
-    documentCount: 10,
+    documentCount: 2,
     description: 'Study materials covering fuzzy sets, graph theory, and complex analysis.',
     categories: {
       // questionBank: [
@@ -45,7 +45,7 @@ export const SUBJECTS_DATA = [
     id: '25cs302',
     code: '25CS302',
     name: 'Object Oriented Programming With JAVA',
-    documentCount: 8,
+    documentCount: 3,
     description: "Explore Java, OOP's, classes, objects, inheritance, and core programming concepts.",
     categories: {
       questionBank: [
@@ -88,7 +88,7 @@ export const SUBJECTS_DATA = [
     id: '25cs303',
     code: '25CS303',
     name: 'Computer Organization & Architecture',
-    documentCount: 8,
+    documentCount: 3,
     description: 'Explore computer architecture, memory organization, and digital system fundamentals.',
     categories: {
       questionBank: [
@@ -124,7 +124,7 @@ export const SUBJECTS_DATA = [
     id: '25cs304',
     code: '25CS304',
     name: 'Operating Systems',
-    documentCount: 8,
+    documentCount: 3,
     description: 'Explore OS concepts, process management, memory management, and file systems.',
     categories: {
       questionBank: [
@@ -167,7 +167,7 @@ export const SUBJECTS_DATA = [
     id: '25cs305',
     code: '25CS305',
     name: 'Data Structures & Applications',
-    documentCount: 8,
+    documentCount: 2,
     description: 'Explore data structures, algorithms, linked lists, queues and their practical applications',
     categories: {
       questionBank: [
