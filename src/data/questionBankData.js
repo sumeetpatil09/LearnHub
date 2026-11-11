@@ -6,21 +6,21 @@ export const SUBJECTS_DATA = [
     documentCount: 10,
     description: 'Study materials covering fuzzy sets, graph theory, and complex analysis.',
     categories: {
-      questionBank: [
-        {
-          id: '25mats301-qb',
-          title: 'Maths Question Bank',
-          fileName: 'Question Bank.pdf',
-          filePath: '/LearnHub/pdfs/ma302/Question Bank.pdf',
-          fileSize: '4.1 MB'
-        }
-      ],
+      // questionBank: [
+      //   {
+      //     id: '25mats301-qb',
+      //     title: 'Maths Question Bank',
+      //     fileName: 'Question Bank.pdf',
+      //     filePath: '/LearnHub/pdfs/ma302/Question Bank.pdf',
+      //     fileSize: '4.1 MB'
+      //   }
+      // ],
       ciQuestions: [
         {
           id: '25mats301-ci-1',
           title: 'IA 1 Question Paper',
           fileName: 'IA 1 Question Paper.pdf',
-          filePath: '/LearnHub/pdfs/25mats301/IA 1 Question Paper.pdf',
+          filePath: '/LearnHub/pdfs/25MATS301cie.pdf',
           fileSize: '1.3 MB'
         },
       ],
@@ -29,16 +29,15 @@ export const SUBJECTS_DATA = [
           id: '25mats301-asg-1',
           title: 'Assignment 1',
           fileName: 'Assignment 1.pdf',
-          filePath: '/LearnHub/pdfs/25mats301/Assignment 1.pdf',
+          filePath: '/LearnHub/pdfs/25MATS301ASSIGN.pdf',
           fileSize: '820 KB'
         },
-        {
-          id: '25mats301-asg-2',
-          title: 'Assignment 2',
-          fileName: 'Assignment 2.pdf',
-          filePath: '/LearnHub/pdfs/25mats301/Assignment 2.pdf',
-          fileSize: '760 KB'
-        }
+        // {
+        //   id: '25mats301-asg-2',
+        //   title: 'Assignment 2',
+        //   fileName: 'Assignment 2.pdf',
+        //   fileSize: '760 KB'
+        // }
       ]
     }
   },
@@ -54,7 +53,7 @@ export const SUBJECTS_DATA = [
           id: '25cs302-qb-1',
           title: 'Digital Logic Master Question Bank',
           fileName: 'Question Bank.pdf',
-          filePath: '/LearnHub/pdfs/25cs302/Question Bank.pdf',
+          filePath: '/LearnHub/pdfs/25cs302java.pdf',
           fileSize: '3.8 MB'
         }
       ],
@@ -63,7 +62,7 @@ export const SUBJECTS_DATA = [
           id: '25cs302-ci-1',
           title: 'Continuous Internal 1 Question Paper',
           fileName: 'CI 1 Question Paper.pdf',
-          filePath: '/LearnHub/pdfs/25cs302/CI 1 Question Paper.pdf',
+          filePath: '/LearnHub/pdfs/25cs302javacie.pdf',
           fileSize: '1.2 MB'
         }
       ],
@@ -72,16 +71,16 @@ export const SUBJECTS_DATA = [
           id: '25cs302-asg-1',
           title: 'Assignment 1 (Booth Multiplication & ALU)',
           fileName: 'Assignment 1.pdf',
-          filePath: '/LearnHub/pdfs/25cs302/Assignment 1.pdf',
+          filePath: '/LearnHub/pdfs/25cs302java.ASSIGN.pdf',
           fileSize: '680 KB'
         },
-        {
-          id: '25cs302-asg-2', 
-          title: 'Assignment 2 (Cache Mapping Numericals)',
-          fileName: 'Assignment 2.pdf',
-          filePath: '/LearnHub/pdfs/25cs302/Assignment 2.pdf',
-          fileSize: '740 KB'
-        }
+        // {
+        //   id: '25cs302-asg-2', 
+        //   title: 'Assignment 2 (Cache Mapping Numericals)',
+        //   fileName: 'Assignment 2.pdf',
+        //   filePath: '/LearnHub/pdfs/25cs302/Assignment 2.pdf',
+        //   fileSize: '740 KB'
+        // }
       ]
     }
   },
@@ -97,7 +96,7 @@ export const SUBJECTS_DATA = [
           id: '25cs303-qb-1',
           title: 'OOP Java Question Bank',
           fileName: 'Question Bank.pdf',
-          filePath: '/LearnHub/pdfs/25cs303/Question Bank.pdf',
+          filePath: '/LearnHub/pdfs/25CS303COA.pdf',
           fileSize: '3.6 MB'
         }
       ],
@@ -106,7 +105,7 @@ export const SUBJECTS_DATA = [
           id: '25cs303-ci-1',
           title: 'Continuous Internal 1 Question Paper',
           fileName: 'CI 1 Question Paper.pdf',
-          filePath: '/LearnHub/pdfs/25cs303/CI 1 Question Paper.pdf',
+          filePath: '/LearnHub/pdfs/25CS303COAcie.pdf',
           fileSize: '1.1 MB'
         }
       ],
@@ -115,16 +114,9 @@ export const SUBJECTS_DATA = [
           id: '25cs303-asg-1',
           title: 'Assignment 1 (Collections Framework Practice)',
           fileName: 'Assignment 1.pdf',
-          filePath: '/LearnHub/pdfs/25cs303/Assignment 1.pdf',
+          filePath: '/LearnHub/pdfs/25CS303COAASSIGM.pdf',
           fileSize: '820 KB'
         },
-        {
-          id: '25cs303-asg-2',
-          title: 'Assignment 2 (Concurrency & Synchronized Queue)',
-          fileName: 'Assignment 2.pdf',
-          filePath: '/LearnHub/pdfs/25cs303/Assignment 2.pdf',
-          fileSize: '790 KB'
-        }
       ]
     }
   },
@@ -140,7 +132,7 @@ export const SUBJECTS_DATA = [
           id: '25cs304-qb-1',
           title: 'Operating Systems Question Bank',
           fileName: 'Question Bank.pdf',
-          filePath: '/LearnHub/pdfs/25cs304/Question Bank.pdf',
+          filePath: '/LearnHub/pdfs/25CS304OS.pdf',
           fileSize: '4.2 MB'
         }
       ],
@@ -149,32 +141,25 @@ export const SUBJECTS_DATA = [
           id: '25cs304-ci-1',
           title: 'Continuous Internal 1 Question Paper',
           fileName: 'CI 1 Question Paper.pdf',
-          filePath: '/LearnHub/pdfs/25cs304/CI 1 Question Paper.pdf',
+          filePath: '/LearnHub/pdfs/25CS304OScie.pdf',
           fileSize: '1.2 MB'
         },
-        {
-          id: '25cs304-ci-2',
-          title: 'Continuous Internal 2 Question Paper',
-          fileName: 'CI 2 Question Paper.pdf',
-          filePath: '/LearnHub/pdfs/25cs304/CI 2 Question Paper.pdf',
-          fileSize: '1.5 MB'
-        }
+        // {
+        //   id: '25cs304-ci-2',
+        //   title: 'Continuous Internal 2 Question Paper',
+        //   fileName: 'CI 2 Question Paper.pdf',
+        //   filePath: '/LearnHub/pdfs/25cs304/CI 2 Question Paper.pdf',
+        //   fileSize: '1.5 MB'
+        // }
       ],
       assignmentQuestions: [
         {
           id: '25cs304-asg-1',
           title: 'Assignment 1',
           fileName: 'Assignment 1.pdf',
-          filePath: '/LearnHub/pdfs/25cs304/Assignment 1.pdf',
+          filePath: '/LearnHub/pdfs/25CS304OSASSIN.pdf',
           fileSize: '710 KB'
         },
-        {
-          id: '25cs304-asg-2',
-          title: 'Assignment 2',
-          fileName: 'Assignment 2.pdf',
-          filePath: '/LearnHub/pdfs/25cs304/Assignment 2.pdf',
-          fileSize: '840 KB'
-        }
       ]
     }
   },
@@ -190,33 +175,8 @@ export const SUBJECTS_DATA = [
           id: '25cs305-qb-1',
           title: 'Data Structures & Applications Question Bank',
           fileName: 'Question Bank.pdf',
-          filePath: '/LearnHub/pdfs/25cs305/Question Bank.pdf',
+          filePath: '/LearnHub/pdfs/25CS305DSA.pdf',
           fileSize: '3.9 MB'
-        }
-      ],
-      importantQuestions: [
-        {
-          id: '25cs305-imp-1',
-          title: 'Repeated University Questions',
-          fileName: 'Important Questions.pdf',
-          filePath: '/LearnHub/pdfs/25cs305/Important Questions.pdf',
-          fileSize: '1.9 MB'
-        }
-      ],
-      slipTest: [
-        {
-          id: '25cs305-st-1',
-          title: 'Slip Test 1',
-          fileName: 'Slip Test 1.pdf',
-          filePath: '/LearnHub/pdfs/25cs305/Slip Test 1.pdf',
-          fileSize: '520 KB'
-        },
-        {
-          id: '25cs305-st-2',
-          title: 'Slip Test 2',
-          fileName: 'Slip Test 2.pdf',
-          filePath: '/LearnHub/pdfs/25cs305/Slip Test 2.pdf',
-          fileSize: '560 KB'
         }
       ],
       ciQuestions: [
@@ -224,33 +184,33 @@ export const SUBJECTS_DATA = [
           id: '25cs305-ci-1',
           title: 'Continuous Internal 1 Question Paper',
           fileName: 'CI 1 Question Paper.pdf',
-          filePath: '/LearnHub/pdfs/25cs305/CI 1 Question Paper.pdf',
+          filePath: '/LearnHub/pdfs/25CS305DSAcie.pdf',
           fileSize: '1.3 MB'
         },
-        {
-          id: '25cs305-ci-2',
-          title: 'Continuous Internal 2 Question Paper',
-          fileName: 'CI 2 Question Paper.pdf',
-          filePath: '/LearnHub/pdfs/25cs305/CI 2 Question Paper.pdf',
-          fileSize: '1.4 MB'
-        }
+        // {
+        //   id: '25cs305-ci-2',
+        //   title: 'Continuous Internal 2 Question Paper',
+        //   fileName: 'CI 2 Question Paper.pdf',
+        //   filePath: '/LearnHub/pdfs/25cs305/CI 2 Question Paper.pdf',
+        //   fileSize: '1.4 MB'
+        // }
       ],
-      assignmentQuestions: [
-        {
-          id: '25cs305-asg-1',
-          title: 'Assignment 1 (CPU Scheduling Gantt Charts)',
-          fileName: 'Assignment 1.pdf',
-          filePath: '/LearnHub/pdfs/25cs305/Assignment 1.pdf',
-          fileSize: '690 KB'
-        },
-        {
-          id: '25cs305-asg-2',
-          title: 'Assignment 2 (Page Replacement Algorithms)',
-          fileName: 'Assignment 2.pdf',
-          filePath: '/LearnHub/pdfs/25cs305/Assignment 2.pdf',
-          fileSize: '750 KB'
-        }
-      ]
+      // assignmentQuestions: [
+      //   {
+      //     id: '25cs305-asg-1',
+      //     title: 'Assignment 1 (CPU Scheduling Gantt Charts)',
+      //     fileName: 'Assignment 1.pdf',
+      //     filePath: '/LearnHub/pdfs/25cs305/Assignment 1.pdf',
+      //     fileSize: '690 KB'
+      //   },
+      //   {
+      //     id: '25cs305-asg-2',
+      //     title: 'Assignment 2 (Page Replacement Algorithms)',
+      //     fileName: 'Assignment 2.pdf',
+      //     filePath: '/LearnHub/pdfs/25cs305/Assignment 2.pdf',
+      //     fileSize: '750 KB'
+      //   }
+      // ]
     }
   }
 ];
