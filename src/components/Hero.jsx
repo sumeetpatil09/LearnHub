@@ -118,23 +118,6 @@ export const Hero = ({ onScrollToSubjects, totalDocuments }) => {
               <div className="text-[11px] text-slate-400">Per Subject</div>
             </div>
           </div>
-
-          {/* <div className="flex items-center gap-3">
-            <div
-              className="w-9 h-9 rounded-lg flex items-center justify-center shrink-0 border"
-              style={{
-                backgroundColor: 'rgba(16, 185, 129, 0.1)',
-                borderColor: 'rgba(16, 185, 129, 0.3)',
-                color: '#34d399'
-              }}
-            >
-              <CheckCircle2 className="w-4 h-4" />
-            </div>
-            <div>
-              <div className="text-lg font-bold text-white">100% Free</div>
-              <div className="text-[11px] text-slate-400">Direct PDF Access</div>
-            </div>
-          </div> */}
         </div>
       </div>
     </section>

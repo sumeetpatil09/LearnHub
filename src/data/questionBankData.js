@@ -102,7 +102,7 @@ export const SUBJECTS_DATA = [
     id: '25cs304',
     code: '25CS304',
     name: 'Operating Systems',
-    documentCount: 3,
+    documentCount: 4,
     description: 'Explore OS concepts, process management, memory management, and file systems.',
     categories: {
       questionBank: [
@@ -124,8 +124,8 @@ export const SUBJECTS_DATA = [
         },
        {
           id: '25cs305-ci-1',
-          title: 'IA 1 Answers',
-          fileName: 'IA 1 Answers.pdf',
+          title: 'CI 1 Answers',
+          fileName: 'CI 1 Answers.pdf',
           filePath: '/LearnHub/pdfs/OS IA 1 Answers.pdf',
           fileSize: '1.3 MB'
         },

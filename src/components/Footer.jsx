@@ -64,7 +64,7 @@ export const Footer = ({ onScrollToTop, onScrollToSubjects, onScrollToAbout }) =
             </p>
 
             <div className="text-[15px] p-2.5 rounded-lg border border-slate-800 bg-slate-900/60 text-slate-400 font-mono">
-              Under tha Guideance of <span className="text-amber-300 font-bold">Prof.Vijaylaxmi Mam</span>
+              Under tha Guideance of <span className="text-amber-300 font-bold">Prof.Vijaylaxmi</span>
             </div>
           </div>
 
