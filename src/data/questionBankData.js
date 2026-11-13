@@ -105,7 +105,7 @@ export const SUBJECTS_DATA = [
           id: '25cs303-ci-1',
           title: 'Continuous Internal 1 Question Paper',
           fileName: 'CI 1 Question Paper.pdf',
-          filePath: '/LearnHub/pdfs/25CS303COAcie.pdf',
+          filePath: '/LearnHub/pdfs/COA 25CS303 lllsem IA-1 Scheme.pdf',
           fileSize: '1.1 MB'
         }
       ],

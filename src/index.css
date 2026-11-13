@@ -1,10 +1,4 @@
 @import "tailwindcss";
-
-/* ==========================================================================
-   EXAMPASS - DARK & GOLD THEME ROOT VARIABLES
-   Simple, clean, customizable variables.
-   ========================================================================== */
-
 :root {
   --bg-color: #0b0f17;           /* Deep dark background */
   --card-bg: #121824;            /* Dark card & modal surface */
@@ -23,7 +17,6 @@
   --font-sans: 'Plus Jakarta Sans', system-ui, -apple-system, BlinkMacSystemFont, sans-serif;
 }
 
-/* Global resets & typography */
 html {
   scroll-behavior: smooth;
   font-family: var(--font-sans);
