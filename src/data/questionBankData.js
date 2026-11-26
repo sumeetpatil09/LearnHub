@@ -66,7 +66,7 @@ export const SUBJECTS_DATA = [
     id: '25cs303',
     code: '25CS303',
     name: 'Computer Organization & Architecture',
-    documentCount: 3,
+    documentCount: 4,
     description: 'Explore computer architecture, memory organization, and digital system fundamentals.',
     categories: {
       questionBank: [
@@ -93,6 +93,13 @@ export const SUBJECTS_DATA = [
           title: 'Assignment 1 (Collections Framework Practice)',
           fileName: 'Assignment 1.pdf',
           filePath: '/LearnHub/pdfs/25CS303COAASSIGM.pdf',
+          fileSize: '820 KB'
+        },
+        {
+          id: '25cs303-asg-2',
+          title: 'Assignment-2(M4-M5)',
+          fileName: 'Assignment 2.pdf',
+          filePath: '/LearnHub/pdfs/COA M4-M5 ASSI.pdf',
           fileSize: '820 KB'
         },
       ]
