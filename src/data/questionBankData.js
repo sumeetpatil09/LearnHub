@@ -139,10 +139,10 @@ export const SUBJECTS_DATA = [
       ],
       assignmentQuestions: [
         {
-          id: '25cs304-asg-1',
-          title: 'Assignment 1',
-          fileName: 'Assignment 1.pdf',
-          filePath: '/LearnHub/pdfs/25CS304OSASSIN.pdf',
+          id: '25cs304-asg-all',
+          title: 'Assignment Questions (All Mod)',
+          fileName: 'Assignment-Q (All Mod).pdf',
+          filePath: '/LearnHub/pdfs/OS Assignment.pdf',
           fileSize: '710 KB'
         },
       ]

@@ -83,7 +83,7 @@ export const SubjectModal = ({ subject, onClose }) => {
     >
       {/* Compact, Clean Modal Box */}
       <div
-        className="relative w-full h-1/2 max-w-lg sm:max-w-xl rounded-xl border shadow-2xl overflow-hidden flex flex-col"
+        className="relative w-full h-full max-w-lg sm:max-w-xl rounded-xl border shadow-2xl overflow-hidden flex flex-col"
         style={{
           backgroundColor: 'var(--card-bg)',
           borderColor: 'var(--card-border)',
