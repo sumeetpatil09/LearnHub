@@ -159,8 +159,8 @@ export const SUBJECTS_DATA = [
         {
           id: '25cs305-qb-1',
           title: 'Data Structures & Applications Question Bank',
-          fileName: 'Question Bank.pdf',
-          filePath: '/LearnHub/pdfs/25CS305DSA.pdf',
+          fileName: 'Question Bank(M1-M5).pdf',
+          filePath: '/LearnHub/pdfs/DSC QB (ALL MOD).pdf',
           fileSize: '3.9 MB'
         }
       ],
